@@ -49,5 +49,6 @@ Build a Image classification model to classify a given bounding box
     2. Image crop out width and height 
 
 ## Inference script
-Please use inference.py and test directly.
-type into terminal : python infer.py -i "./test_image/none_26_75777.png" -d "cpu"
+* Please use inference.py and test directly.
+* type into terminal : 
+* python infer.py -i "./test_image/none_26_75777.png" -d "cpu"
